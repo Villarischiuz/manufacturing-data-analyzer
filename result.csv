@@ -1,0 +1,7 @@
+machine;pieces;defects;defect_rate;average_cycle_time;downtime_period
+M01;845;25;2.96%;42.79s;1
+M02;756;12;1.59%;47.73s;1
+M03;945;55;5.82%;39.50s;1
+M04;193;3;1.55%;50.95s;1
+M05;0;0;0.00%;N/A;1
+M06;100;5;5.00%;41.50s;0
